@@ -2,7 +2,7 @@
 
 SCAFLD is deploying a heterogeneous mobile robot fleet for transporting time-critical samples from an intensive care unit to the laboratory at the Tartu University Hospital. The developed system showcases the level of maturity for several technological capabilities and tools. Among them, the Robotics Middleware Framework (RMF), an open-source fleet management system for interoperability of heterogeneous robotic systems.
 
-## Publications about SCAFLD
+## Publications
 ```
 @article{valner_frobt2022,
   title={Scalable and heterogenous mobile robot fleet-based task automation in crowded hospital environments - a field test},
